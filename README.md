@@ -21,3 +21,11 @@ C++ samples for Unreal Engine5
 </p>
 
 ![](https://github.com/NNNIC/psgg-cppue5-samples/blob/main/002/UProject/Source/UProject/testsg1/output1.png)
+
+### 003 - Call StateGo preemptively<br>
+<p>
+  Open uproject <br>
+  Drag and drop to view with Source/UProject/testsg1/StateGoTestActor.<br>
+  Run!
+</p>
+
